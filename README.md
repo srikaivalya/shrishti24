@@ -19,5 +19,7 @@ In light of the ongoing COVID-19 pandemic, safety measures are paramount, necess
 
   # Credits
 The implementation of this project was inspired by the YouTube video (https://www.youtube.com/watch?v=OI8wO20BSCs)
+
 Special thanks to "freedomwebtech" and "computer vision engineer" for providing valuable insights and guidance in the video.
+
 The YOLO model used in this project is from the Ultralytics YOLO repository: Ultralytics YOLO.
